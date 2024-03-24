@@ -8,7 +8,7 @@
   Pada jobsheet 1 ini berisi tentang apa itu struktur data. Struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan data adalah representasi dari fakta dunia nyata. Konstanta digunakan untuk menyatakan nilai tetap sedangkan variable digunakan untuk menyatakan nilai yang dapat berubah.
 </p>
 <p align="justify">
-  Selanjutnya juga ada 4 istilah data yaitu: ![alt text](https://github.com/RidhoHamdaniPutra/JobSheet-Praktikum-Struktur-Data-Semester-2/blob/main/Gambar/istilahdata.png?raw=true)
+  Selanjutnya juga ada 4 istilah data yaitu:
 </p>
 
 <p align="justify">

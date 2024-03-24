@@ -5,10 +5,10 @@
 <h1 align="start"> <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 1 <img src="https://media1.giphy.com/media/kimWBtJDjWcwFH2nRB/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
-
+  Pada jobsheet 1 ini berisi tentang apa itu struktur data. Struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan data adalah representasi dari fakta dunia nyata. Konstanta digunakan untuk menyatakan nilai tetap sedangkan variable digunakan untuk menyatakan nilai yang dapat berubah.
 </p>
 <p align="justify">
-  
+  Selanjutnya juga ada 4 istilah data yaitu: ![alt text](?raw=true)
 </p>
 
 <p align="justify">

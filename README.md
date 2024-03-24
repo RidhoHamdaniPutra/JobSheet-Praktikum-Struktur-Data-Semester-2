@@ -1,7 +1,4 @@
-<img src="https://media3.giphy.com/media/sWFYgYFjHGugleQdO7/giphy.gif?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100%"  >
-
-
- <h1 align="center"> <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  Praktikum-Struktur-Data <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+ <h1 align="center"> <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  Praktikum-Struktur-Data By Ridho Hamdani Putra <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -193,6 +190,5 @@
 </p>
 
 <p align="justify">
-  K
+  
 </p>
-<img src="img/wave.png" width="100%" >

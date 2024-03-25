@@ -48,7 +48,7 @@
 </p>
 
 <p align="justify">
- Terakhir ada <b>ADT (Abstract Data Type)</b>, <b>ADT</b> adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data tertentu yang telah didefinisikan oleh pemrogram. Dalam membuat tipe data bentukan ini di dalam bahasa C kita tidak boleh menggunakan nama yang sudah ada di dalam keyword bahasa C, seperti int, float, char dll. Kita dapat membuatnya dengan format :<br> typedef-(nama tipe data lama)-(nama tipe data baru).
+ Terakhir ada <b>ADT (Abstract Data Type)</b>, <b>ADT</b> adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data tertentu yang telah didefinisikan oleh pemrogram. Dalam membuat tipe data bentukan ini di dalam bahasa C kita tidak boleh menggunakan nama yang sudah ada di dalam keyword bahasa C, seperti int, float, char dll. Kita dapat membuatnya dengan format :<br><br> typedef-(nama tipe data lama)-(nama tipe data baru).
 </p>
 
 <p align="justify">
@@ -57,15 +57,19 @@
 
 <h1 align="start"> <img src="https://media4.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="40" >  JOBSHEET 3 <img src="https://media4.giphy.com/media/PhCW0WCeQcTixaoouV/100.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=100.webp&ct=s" width="100" ></h1>
 <p align="justify">
-  
+  Pada jobsheet 3 ini kita mempelajadi tentang <b>Single Linked List</b>, struktur data <b>Link List</b>, operasi <b>Link List</b>, dan implementasi <b>Simpul/Node</b>.
 </p>
 
 <p align="justify">
- 
+  <b>Simpul/Node</b> adalah sebuah struct yang didalamnya berisi alamat dan kumpulan data dengan format seperti berikut :<br><br> struct node <br> { <br> int data; <br> struct node *next; <br> } <br><br> <b>Alokasi Memory</b> penggunaan alokasi memori ini menyediakan kita fasilitas untuk membuat ukuran buffer dan array secara dinamik. karena kelemahan di dalam tipe data array ini yaitu sifatnya yang statis. Artinya ketika kita mendeklarasikan array maka data yang kita deklarasikan disimpan dalam memori yang harus dalam konsisi terurut. 
+ <ul>
+  <li>perintah sizeof()</li>
+  <li>perintah malloc()</li>
+ </ul>
 </p>
 
 <p align="justify">
-  
+  Selanjutnya ada <b>Single Link List</b> yang merupakan sebuah data yang berupa simpul atau node beralamat yang saling terhubung. Setiap simpul data menyimpan data yang berisi tipe tipe data lainnya. Logikanya seperti pencarian harta karun yang mana pada setiap titik kita mendapatkan clue untuk ke rute selanjutnya mulai dari clue pertama sampai kita menemukan harta karun tersebut. biasanya data pertama di dalam linked list ini dinamai dengan <b>Head</b> dan data terkahir dinamai dengan <b>Tail</b>.
 </p>
 
 <p align="justify">

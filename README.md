@@ -78,26 +78,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="end"> <img src="https://media3.giphy.com/media/ZIpTnlApULm08DRxsc/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 4 <img src="https://media4.giphy.com/media/14APLG463ouIBK5J4W/200w.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 <p align="justify">
-  
+  Pada jobsheet 4 ini kita mempelajari tentang konsep dan penggunaan penyimpana <b>Doubly Linked List</b>, yang pada job sebelumnya kita mempelajari single linked list dan ini adalah lanjutan nya yang mana data di dalam nya saling terkait secara dua arah. 
 </p>
 
 <p align="justify">
-  
+  Kelebihan Doubly Linked List dibandingkan denganSingle Link List :
+ <ul>
+  <li>DLL bisa berjalan dalam 2 arah kedepan dan kebelakang</li>
+  <li>Operasi penghapusan lebih efisien dan simple dengan menggunakan pointer yang menujuk ke simpul yang akan dihapus</li>
+  <li>Dapat melakukan proses insert yang lebih efisien</li>
+ </ul>
 </p>
 <p align="justify">
-  
+  Kelemahan Doubly Link List dibandingkan dengan Single Link List :
+ <ul>
+  <li>Setiap siimpul DLL membutuhkan ruang memory tambahan untuk pointer to pointer</li>
+  <li>Setiap operasi yang dilakukan harus mencantumkan pointer simpul sebelumnya</li>
+ </ul>
 </p>
 
 <p align="justify">
-  
-</p>
-
-<p align="justify">
- 
-</p>
-
-<p align="justify">
-  
+  Jenis Insertion() :
+ <ul>
+  <li>Penambahan simpul di depan</li>
+  <li>Penambahan setelah simpul</li>
+  <li>Di simpul paling akhir</li>
+  <li>Penambahan sebelum simpul tertentu</li>
+ </ul>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

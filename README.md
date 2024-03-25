@@ -31,24 +31,24 @@
    Dengan menggunakan struktur data yang tepat proses pemrograman akan menghasilkan algoritma yang lebih jelas dan tepat.
 </p>
 
-<p align="justify">
-  
-</p>
-
-<p align="justify">
- 
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="end"> <img src="https://media0.giphy.com/media/oy3pwvu2WbY22fOWbz/200w.webp?cid=ecf05e47xix52hujg47k4bqf75tvnytk9fb0o0wfqvbuobf7&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 2 <img src="https://media0.giphy.com/media/U8mQgtp7EJif9AfgQB/200.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 
 
 <p align="justify">
- 
+  Pada jobsheet 2 ini kita mempelajari tentang bagaimana konsep penggunaan array, pointer, structure dan ADT di dalam program. Yang mana pada semester 1 kemarin kita telah mempelajari bagaimana konsep array, pointer, struct dan sedikit tentang ADT.
 </p>
 
 <p align="justify">
-  
+  <b>Array</b> adalah suatu kumpulan nilai yang bertipe data sama. Setiap data di dalam array dapat kita akses dengan menggunakan indeks dan elemen array dapat diakses langsung secara acak. Dimensi array dinyatakan dalam bentuk baris dan kolom seperti matriks. <b>Pointer</b> adalah sebuah variabel yang berisi alamat memori sebagai nilainya, berbeda dengan variabel biasa yang isinya berupa sebuah nilai tertentu. <b>Pointer</b> di deklarasikan dengan  menggunakan tanda asterik atau bintang (*) didepan nama variabel.
+</p>
+<p align="justify">
+  Selanjutnya ada <b>Structure</b>, <b>struct</b> ini adalah kumpulan variabel yang memiliki tipe tipe data yang berbeda, mirip seperti array tetapi array hanya bisa menggabungkan tipe data yang sama saja. Untuk menamai struct kita dapat menggunakan kata kunci struct untuk dapat mengaksesnya nanti, ada 2 tipe operator yang digunakan untuk mengakses struct yaitu : <li>'.' - member operator</li> <li>'-> - operator yang digunakan untuk pointer</li>
+</p>
+
+<p align="justify">
+ Terakhir ada <b>ADT (Abstract Data Type)</b>, <b>ADT</b> adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data tertentu yang telah didefinisikan oleh pemrogram. Dalam membuat tipe data bentukan ini di dalam bahasa C kita tidak boleh menggunakan nama yang sudah ada di dalam keyword bahasa C, seperti int, float, char dll. Kita dapat membuatnya dengan format :<br> typedef-(nama tipe data lama)-(nama tipe data baru).
 </p>
 
 <p align="justify">

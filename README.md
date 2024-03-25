@@ -110,15 +110,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="start"> <img src="https://media3.giphy.com/media/taI6It7JfnbhtzZUZc/200w.webp?cid=ecf05e47qmgvyzohxfqc0jbuxunu1r64oi89m3k8snv3nwi8&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 5 <img src="https://media0.giphy.com/media/6GFsg3WbdP9BIOXWBw/200w.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 <p align="justify">
-  
+  Pada jobsheet 5 ini kita mempelajari tentang bagaimana konsep <b>Double Linked List dan Cricular Lingked List</b>.
 </p>
 
 <p align="justify">
-  
+  <b>Double Linked List</b> adalah list elemen yang dihubungkan dengan dua pointer dalam satu node. Struktur ini menyebabkan list melintas baik kedepan ataupun kebelakang. Elemen pada double linked list terdiri dari tiga bagian, disamping data (info) dan pointer next, setiap elemen dilengkapi dengan pointer prev dan next . Untuk menunjukkan head dari double linked list ini maka pointer prev dari elemn pertama menunjukkan nilai NULL. Untuk menunjukkan tail dari double linked list, maka pointer next dari elemen terakhir menunjuk nilai NULL.
 </p>
 
 <p align="justify">
-  
+  <b>Circular Linked List</b> adalah bentuk lain dari linked list yang memberikan fleksibelitas. Circular linked list ini dapat berupa single linked list ataupun double linked list. Pada circular ini pointer next dari elemn terakhir tidak menujukkan nilai NULL tetapi nenunjuk pada elemen pertama.
 </p>
 
 <p align="justify">
@@ -129,18 +129,22 @@
 <h1 align="end"> <img src="https://media3.giphy.com/media/8pe03qgzN50U4B7W7K/200.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  JOBSHEET 6 <img src="https://media0.giphy.com/media/d7nE5VepaZsZ9zXht0/200w.webp?cid=ecf05e47xvhs20bn4au1a2dnvqkf5p2bgo6slurhjk0jrwqx&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
-  
+  Pada jobsheet 6 ini kita mempelajari tentang konsep <b>Stack</b>. <b>Stack</b> adalah sebuah kumpulan data yang mana letaknya berada di atas data yang lain.<b>Stuck</b> adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Dalam proses komputasi, untuk meletakkan sebuah elem pada bagian atas stack, disebut dengan <b>push</b>, dan untuk memindahkan data dari tempat yang atas, disebut <b>pop</b>.
 </p>
 <p>
   
 </p>
-
+ <b>Stack dengan Array</b>, bentuk penyajian stack bisa menggunakan tipe data array, tetapi kurang tepat karena banyaknya elemen dalam array adalah statis, sedangkan dalam stack banyaknya elemen didalamnya dinamis. Pada suatu saat, ukuran stack akan sama dengan array, bila terus menambhkan data maka akan terjadi overflow. Maka perlu ditambahkan data untuk mencatat posisi ujung stack, yaitu <b>Single Stack</b> dan <b>Double Stack</b>.
 <p align="justify">
   
 </p>
-
+ <b>Operasi pada Stack</b> 
+ <ul>
+  <li><b>Push</b> digunakan untuk menambahkan elemen atau data baru pada stack. Elemen baru tersbut akan menjadi elemen paling atas di dalam stack.</li>
+  <li><b>Pop</b> digunakan untuk menghapus elen yang berada paling atas dari stack</li>
+  <li><b>Peek</b> digunakan untuk mengecek elemen atau data paling atas tanpa menghapusnya</li>
+  <li><b>isFull</b> digunakan untuk memeriksa apakah kondisi stack sudah penuh</li>
+  <li><b>isEmpty</b> digunakan untuk memeriksa apakah stack masih dalam kondisi kosong</li>
+  <li><b>Clear</b> digunakan untuk mengosongkan stack</li>
+ </ul>
 <p align="justify">
-  
-</p>
-  
-</p>

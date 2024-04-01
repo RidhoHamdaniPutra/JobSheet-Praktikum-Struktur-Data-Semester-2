@@ -148,3 +148,37 @@
   <li><b>Clear</b> digunakan untuk mengosongkan stack</li>
  </ul>
 <p align="justify">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="start"> <img src="https://media2.giphy.com/media/l378jPrN9utcV2Qgg/200w.webp?cid=ecf05e470yguharj8m73hatyc3jvud0qvwpbbsnfppkfzq5r&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 7<img src="https://media0.giphy.com/media/dy8uuPWCzQrMA/200.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<p align="justify">
+  Pada jobsheet 7 ini kita mempelajari tentang bagaimana konsep stack dan operasi pada queue. Queue adalah struktur data linier yang menerapkan prinsip operasi dimana elemen data yang masuk pertama akan keluar lebih dulu. Prinsip ini dikenal dengan istilah FIFO (First In, First Out). Persamaan antara stack dan queue adalah keduanya dapat diimplementasikan menggunakan struktur data linked list atau array.
+</p>
+ 
+<p align="justify">
+  Spesifikasi Queue :
+ <ul>
+  <li>Enqueue: digunakan untuk menambah elemen di akhir queue</li>
+  <li>Dequeue: digunakan untuk menghapus elemen awal queue</li>
+  <li>IsEmpty: digunakan untuk mengecek apakah queue kosong</li>
+  <li>IsFull: digunakan untuk mengecek apakah queue penuh</li>
+  <li>Peek: digunakan untuk mengintip nilai queue</li>
+ </ul>
+</p>
+
+<p align="justify">
+  Cara kerja queue :
+ <ul>
+  <li>Dua pointer yang disebut FRONT dan REAR digunakan untuk melacak elemen pertama dan 
+terakhir dalam antrian.</li>
+  <li>Saat menginisialisasi antrian, kami menetapkan nilai FRONT dan REAR ke -1.</li>
+  <li>Pada enqueing elemen, kita meningkatkan nilai indeks REAR dan menempatkan elemen baru di 
+posisi yang ditunjuk oleh REAR.</li>
+  <li>Pada dequeueing suatu elemen, kita mengembalikan nilai yang ditunjuk oleh FRONT dan 
+meningkatkan indeks FRONT.</li>
+  <li>Sebelum enqueing, kami memeriksa apakah antrian sudah penuh.</li>
+  <li>Sebelum dequeuing, kami memeriksa apakah antrian sudah kosong.</li>
+  <li>Saat membuat elemen pertama, kami menetapkan nilai FRONT ke 0.</li>
+  <li>Saat mendekor elemen terakhir, kita mereset nilai FRONT dan REAR ke -1.</li>
+ </ul>
+</p>

@@ -182,3 +182,37 @@ meningkatkan indeks FRONT.</li>
   <li>Saat mendekor elemen terakhir, kita mereset nilai FRONT dan REAR ke -1.</li>
  </ul>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="end"> <img src="https://media0.giphy.com/media/h8DCmboIm0MRwAIL9E/giphy.webp?cid=ecf05e474dtlpimjq09erzwga6m80gp92fe5806dg6ymhubg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 8 <img src="https://media3.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.webp?cid=ecf05e476lz2cknrv79mtdwpkxao22lshdjdd1b11j7evlni&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" ></h1>
+<p align="justify">
+  
+</p>
+
+<p align="justify">
+  
+</p>
+
+<p align="justify">
+  
+</p>
+
+<p align="justify">
+  
+</p>
+
+<p align="justify">
+  
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="start"> <img src="https://media2.giphy.com/media/SsefNnwrN5qwI5QRTt/200w.webp?cid=ecf05e475cdphy33rzwqxorpf3nzuvn5n2tfy5qtyv67h0if&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 9 <img src="https://media0.giphy.com/media/h2m0y57KG365rZZOP5/200.webp?cid=ecf05e475cdphy33rzwqxorpf3nzuvn5n2tfy5qtyv67h0if&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<p align="justify">
+  
+</p>
+<p align="justify">
+  
+</p>
+<p align="justify">
+  
+</p>

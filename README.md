@@ -252,14 +252,22 @@ terurut. </li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://cdn-icons-png.flaticon.com/256/7649/7649205.png" width="100" >  JOBSHEET 11<img src="https://media1.giphy.com/media/quzZylfBesCkOFLx7w/200.webp?cid=ecf05e47fonjt2qvhje7womsnts9zx12h9c5uvn418wpt025&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://cdn-icons-png.flaticon.com/256/7649/7649205.png" width="100" >  JOBSHEET 11 <img src="https://media1.giphy.com/media/quzZylfBesCkOFLx7w/200.webp?cid=ecf05e47fonjt2qvhje7womsnts9zx12h9c5uvn418wpt025&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
   
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="end"> <img src="https://media.giphy.com/media/FnYrJ5tucy3LPd2gEq/giphy.gif?cid=790b7611s5ixjcwfvod2co1z3s22us2f1o4efsuwz0e9qz6x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 12 <img src="https://media.giphy.com/media/GPWKoHhTMmjTYqOTVG/giphy.gif?cid=ecf05e474tu8abs0yjm5j6r6qi9fmezzinuikodk5d2a3r0p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
+
 <p align="justify">
   
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="start"> <img src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif?cid=ecf05e47warq7juizuza579qwq9xrei9hs0snk4ziwslrmu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 13 <img src="https://media.giphy.com/media/vTUs60YG8Cdgl3s0Ky/giphy.gif?cid=ecf05e47swainwus8dzbduibua58h7bdzolesqvm2ecer0tj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
+
 <p align="justify">
+  
+</p>

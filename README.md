@@ -33,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="end"> <img src="https://media0.giphy.com/media/oy3pwvu2WbY22fOWbz/200w.webp?cid=ecf05e47xix52hujg47k4bqf75tvnytk9fb0o0wfqvbuobf7&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 2 <img src="https://media0.giphy.com/media/U8mQgtp7EJif9AfgQB/200.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://media0.giphy.com/media/oy3pwvu2WbY22fOWbz/200w.webp?cid=ecf05e47xix52hujg47k4bqf75tvnytk9fb0o0wfqvbuobf7&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 2 <img src="https://media0.giphy.com/media/U8mQgtp7EJif9AfgQB/200.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 
 
 <p align="justify">
@@ -76,7 +76,7 @@
   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="end"> <img src="https://media3.giphy.com/media/ZIpTnlApULm08DRxsc/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 4 <img src="https://media4.giphy.com/media/14APLG463ouIBK5J4W/200w.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://media3.giphy.com/media/ZIpTnlApULm08DRxsc/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 4 <img src="https://media4.giphy.com/media/14APLG463ouIBK5J4W/200w.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 <p align="justify">
   Pada jobsheet 4 ini kita mempelajari tentang konsep dan penggunaan penyimpana <b>Doubly Linked List</b>, yang pada job sebelumnya kita mempelajari single linked list dan ini adalah lanjutan nya yang mana data di dalam nya saling terkait secara dua arah. 
 </p>
@@ -126,7 +126,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="end"> <img src="https://media3.giphy.com/media/8pe03qgzN50U4B7W7K/200.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  JOBSHEET 6 <img src="https://media0.giphy.com/media/d7nE5VepaZsZ9zXht0/200w.webp?cid=ecf05e47xvhs20bn4au1a2dnvqkf5p2bgo6slurhjk0jrwqx&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://media3.giphy.com/media/8pe03qgzN50U4B7W7K/200.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  JOBSHEET 6 <img src="https://media0.giphy.com/media/d7nE5VepaZsZ9zXht0/200w.webp?cid=ecf05e47xvhs20bn4au1a2dnvqkf5p2bgo6slurhjk0jrwqx&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
   Pada jobsheet 6 ini kita mempelajari tentang konsep <b>Stack</b>. <b>Stack</b> adalah sebuah kumpulan data yang mana letaknya berada di atas data yang lain.<b>Stuck</b> adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Dalam proses komputasi, untuk meletakkan sebuah elem pada bagian atas stack, disebut dengan <b>push</b>, dan untuk memindahkan data dari tempat yang atas, disebut <b>pop</b>.
@@ -184,7 +184,7 @@ meningkatkan indeks FRONT.</li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="end"> <img src="https://media0.giphy.com/media/h8DCmboIm0MRwAIL9E/giphy.webp?cid=ecf05e474dtlpimjq09erzwga6m80gp92fe5806dg6ymhubg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 8 <img src="https://media3.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.webp?cid=ecf05e476lz2cknrv79mtdwpkxao22lshdjdd1b11j7evlni&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://media0.giphy.com/media/h8DCmboIm0MRwAIL9E/giphy.webp?cid=ecf05e474dtlpimjq09erzwga6m80gp92fe5806dg6ymhubg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 8 <img src="https://media3.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.webp?cid=ecf05e476lz2cknrv79mtdwpkxao22lshdjdd1b11j7evlni&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" ></h1>
 <p align="justify">
   
 </p>
@@ -227,7 +227,7 @@ terurut. </li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="end"> <img src="https://media2.giphy.com/media/H1RjXpw33ukP3IcXik/giphy.webp?cid=ecf05e47uar4hpy83jj4u9qn2ejmp49ek3bey2s3j6vnk2l2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 10 <img src="https://i.gifer.com/origin/fd/fdf70f5f4989f9c08f033da50c38170e_w200.webp" width="100" ></h1>
+<h1 align="start"> <img src="https://media2.giphy.com/media/H1RjXpw33ukP3IcXik/giphy.webp?cid=ecf05e47uar4hpy83jj4u9qn2ejmp49ek3bey2s3j6vnk2l2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 10 <img src="https://i.gifer.com/origin/fd/fdf70f5f4989f9c08f033da50c38170e_w200.webp" width="100" ></h1>
 <p align="justify">
   <b>Shell Sort</b> : merupakan sebuah algoritma dengan pengurutan elemen pertama memiliki jarak interval dengan elemen yang akan dibandingkan. Pada prinsipnya sama dengan Insertion sort pada pokok bahasan sebelumnya.</p>
 <p>Dalam pengurutan Shell Sort, elemen/data diurutkan dengan interval yang terukur. Jarak interval diantara elemen semakin lama semakin mengecil berdasarkan berapa kali pengulangan pengurutan 
@@ -255,14 +255,61 @@ terurut. </li>
 <h1 align="start"> <img src="https://cdn-icons-png.flaticon.com/256/7649/7649205.png" width="100" >  JOBSHEET 11 <img src="https://media1.giphy.com/media/quzZylfBesCkOFLx7w/200.webp?cid=ecf05e47fonjt2qvhje7womsnts9zx12h9c5uvn418wpt025&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
-  
+  Ada dua macam teknik pencarian yaitu pencarian sekuensial **linear search** dan pencarian biner 
+**binary search**.  Perbedaan dari dua teknik ini terletak pada keadaan data.  Pencarian sekuensial 
+digunakan apabila data dalam keadaan acak atau tidak terurut.  Sebaliknya, pencarian biner digunakan 
+pada data yang sudah dalam keadaan urut.
+</p>
+
+<p align="justify">
+Algoritma pencarian berurutan dapat dituliskan sebagai berikut: 
+<ul>
+ <li> 1. i ← 0 </li>
+ <li> 2. ketemu ← false </li>
+ <li> 3. Selama (tidak ketemu) dan (i <= N) kerjakan baris 4 </li>
+ <li> 4. Jika (Data[i] = x) maka ketemu ← true, jika tidak i ← i + 1  </li>
+ <li> 5. Jika (ketemu) maka i adalah indeks dari data yang dicari, jika tidak data tidak ditemukan </li>
+</ul>
+</p>
+
+<p align="justify">
+ Algoritma binary search:  
+<ul>
+ <li> 1. Data diambil dari posisi 1 sampai posisi akhir N </li>
+ <li> 2. Kemudian cari posisi data tengah dengan rumus: (posisi awal + posisi akhir) / 2 </li>
+ <li> 3. Kemudian data yang dicari dibandingkan dengan data yang di tengah, apakah sama atau lebih  kecil, atau lebih besar. </li>
+ <li> 4. Jika lebih besar, maka proses pencarian dicari dengan posisi awal adalah posisi tengah + 1 </li>
+ <li> 5. Jika lebih kecil, maka proses pencarian dicari dengan posisi akhir adalah posisi tengah – 1 </li>
+ <li> 6. Jika data sama, berarti ketemu. </li>
+</ul>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="end"> <img src="https://media.giphy.com/media/FnYrJ5tucy3LPd2gEq/giphy.gif?cid=790b7611s5ixjcwfvod2co1z3s22us2f1o4efsuwz0e9qz6x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 12 <img src="https://media.giphy.com/media/GPWKoHhTMmjTYqOTVG/giphy.gif?cid=ecf05e474tu8abs0yjm5j6r6qi9fmezzinuikodk5d2a3r0p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
+<h1 align="start"> <img src="https://media.giphy.com/media/FnYrJ5tucy3LPd2gEq/giphy.gif?cid=790b7611s5ixjcwfvod2co1z3s22us2f1o4efsuwz0e9qz6x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 12 <img src="https://media.giphy.com/media/GPWKoHhTMmjTYqOTVG/giphy.gif?cid=ecf05e474tu8abs0yjm5j6r6qi9fmezzinuikodk5d2a3r0p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
 
 <p align="justify">
-  
+  Traverse atau Melintasi sebuah pohon data/tree artinya mengunjungi semua simpul yang ada pada pohon tersebut. Ada beberapa hal yang dapat dilakukan contoh jika ingin menambah nilai semua data pada pohon tersebut atau mencari nilai tertinggi diantaranya. Untuk operasi-operasi tersebut, harus dilakukan mengunjungi setiap simpul dari pohon data.
+</p>
+
+<p align="justify">
+  terdapat 3 cara melintasi tree :
+<br>1. Inorder Traversal 
+<br>langkah-langkahnya : 
+  <li>Kunjungi semua nodes/simpul di sebelah kiri subtree. </li>
+  <li>Kemudian kunjungi root node/simpul paling atas </li>
+  <li>Kunjungi semua simpul yang ada di kanan subtree </li>
+
+ <br>2. Preorder Traversal 
+ <br>langkah-langkahnya : 
+  <li>Visit root node  </li>
+  <li>Visit all the nodes in the left subtree </li>
+  <li>Visit all the nodes in the right subtree </li>
+
+ <br>3. Postorder Traversal 
+ <br>langkah-langkahnya : 
+  <li>Visit all the nodes in the left subtree  </li>
+  <li>Visit all the nodes in the right subtree </li>
+  <li>Visit the root node </li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

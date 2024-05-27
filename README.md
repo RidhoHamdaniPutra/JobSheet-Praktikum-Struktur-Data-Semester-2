@@ -317,7 +317,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 
 <p align="justify">
 <b>Depth First Search/Traversal</b><br>
-Traversal berarti mengunjungi semua node dari suatu graph. DFS atau DFT adalah algoritma pencarian rekursif yang digunakan untuk menjelajahi semua node dalam suatu graph atau pohon. Pada materi ini, akan dijelaskan contoh penggunaan algoritma DFS, pseudocode DFS, dan kode dalam bahasa pemrograman C.
+Traversal berarti mengunjungi semua node dari suatu graph. DFS atau DFT adalah algoritma pencarian rekursif yang digunakan untuk menjelajahi semua node dalam suatu graph atau pohon.
 </p>
 
 <p align="justify">

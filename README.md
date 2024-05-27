@@ -255,8 +255,8 @@ terurut. </li>
 <h1 align="start"> <img src="https://cdn-icons-png.flaticon.com/256/7649/7649205.png" width="100" >  JOBSHEET 11 <img src="https://media1.giphy.com/media/quzZylfBesCkOFLx7w/200.webp?cid=ecf05e47fonjt2qvhje7womsnts9zx12h9c5uvn418wpt025&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
 
 <p align="justify">
-  Ada dua macam teknik pencarian yaitu pencarian sekuensial **linear search** dan pencarian biner 
-**binary search**.  Perbedaan dari dua teknik ini terletak pada keadaan data.  Pencarian sekuensial 
+  Ada dua macam teknik pencarian yaitu pencarian sekuensial <b>linear search</b> dan pencarian biner 
+<b>binary search</b>.  Perbedaan dari dua teknik ini terletak pada keadaan data.  Pencarian sekuensial 
 digunakan apabila data dalam keadaan acak atau tidak terurut.  Sebaliknya, pencarian biner digunakan 
 pada data yang sudah dalam keadaan urut.
 </p>
@@ -316,5 +316,23 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 <h1 align="start"> <img src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif?cid=ecf05e47warq7juizuza579qwq9xrei9hs0snk4ziwslrmu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 13 <img src="https://media.giphy.com/media/vTUs60YG8Cdgl3s0Ky/giphy.gif?cid=ecf05e47swainwus8dzbduibua58h7bdzolesqvm2ecer0tj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
 
 <p align="justify">
-  
+<b>Depth First Search/Traversal</b><br>
+Traversal berarti mengunjungi semua node dari suatu graph. DFS atau DFT adalah algoritma pencarian rekursif yang digunakan untuk menjelajahi semua node dalam suatu graph atau pohon. Pada materi ini, akan dijelaskan contoh penggunaan algoritma DFS, pseudocode DFS, dan kode dalam bahasa pemrograman C.
+</p>
+
+<p align="justify">
+<b>Algoritma DFS</b> <br>
+Implementasi dasar dari DFS membagi setiap node dalam graph atau pohon menjadi dua kategori:
+
+<li>Visited (Telah Dikunjungi)</li>
+<li>Not Visited (Belum Dikunjungi)</li>
+Tujuan dari algoritma ini adalah menandai setiap node yang telah dikunjungi sambil menghindari node yang sudah dikunjungi sebelumnya.
+</p>
+
+<p align="justify">
+<b>Cara Kerja Algoritma DFS</b><br>
+<li>Mulai dengan meletakkan salah satu node dari graph ke dalam sebuah stack.</li>
+<li>Ambil node teratas dari stack dan tambahkan ke dalam daftar node yang telah dikunjungi.</li>
+<li>Buat daftar node yang berhubungan langsung dengan node tersebut. Tambahkan node yang belum dikunjungi ke dalam stack.</li>
+<li>Ulangi langkah 2 dan 3 hingga stack kosong.</li>
 </p>

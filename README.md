@@ -1,7 +1,7 @@
 <div align="center">
     <img src="Images/LOGO-FT-UNP-2.png" alt="Logo">
     <img src="Images/praklogo.png" alt="prakLogo">
-  <p align="center"> 
+  <p align="justify"> 
    <h1>
        Nama  : Ridho Hamdani Putra <br>
        Nim   : 23343052 <br>

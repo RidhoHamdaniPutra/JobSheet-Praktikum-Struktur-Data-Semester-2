@@ -1,11 +1,11 @@
 <div align="center">
     <img src="Images/LOGO-FT-UNP-2.png" alt="Logo">
     <img src="Images/praklogo.png" alt="prakLogo">
-  <p align="justify"> 
+  <p align="start"> 
    <h1>
-       Nama  : Ridho Hamdani Putra <br>
-       Nim   : 23343052 <br>
-       Prodi : Informatika (NK) 
+       NAMA  : Ridho Hamdani Putra <br>
+       NIM   : 23343052 <br>
+       PRODI : Informatika (NK) 
    </h1>
   </p>
     

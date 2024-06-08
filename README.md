@@ -1,9 +1,15 @@
- <h1 align="center"> <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  Praktikum Struktur Data <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<div align="center">
+    <img src="Images/LOGO-FT-UNP-2.png" alt="Logo">
+  <h1 align="center">PRAKTIKUM STRUKTUR DATA</h1>
+
+  <p align="center"> 
+   
+  </p>
+    
+    
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h1 align="start"> <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 1 <img src="https://media1.giphy.com/media/kimWBtJDjWcwFH2nRB/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
-
+<img src="Images/Jobsheet01.png" alt="Jobsheet 01">
 <p align="justify">
   Pada jobsheet 1 ini berisi tentang apa itu struktur data. Struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan data adalah representasi dari fakta dunia nyata. Konstanta digunakan untuk menyatakan nilai tetap sedangkan variable digunakan untuk menyatakan nilai yang dapat berubah.
 </p>
@@ -32,10 +38,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="start"> <img src="https://media0.giphy.com/media/oy3pwvu2WbY22fOWbz/200w.webp?cid=ecf05e47xix52hujg47k4bqf75tvnytk9fb0o0wfqvbuobf7&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 2 <img src="https://media0.giphy.com/media/U8mQgtp7EJif9AfgQB/200.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
-
-
+<img src="Images/Jobsheet02.png" alt="Jobsheet 02">
 <p align="justify">
   Pada jobsheet 2 ini kita mempelajari tentang bagaimana konsep penggunaan array, pointer, structure dan ADT di dalam program. Yang mana pada semester 1 kemarin kita telah mempelajari bagaimana konsep array, pointer, struct dan sedikit tentang ADT.
 </p>
@@ -54,8 +57,7 @@
 <p align="justify">
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="start"> <img src="https://media4.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="40" >  JOBSHEET 3 <img src="https://media4.giphy.com/media/PhCW0WCeQcTixaoouV/100.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=100.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet03.png" alt="Jobsheet 03">
 <p align="justify">
   Pada jobsheet 3 ini kita mempelajadi tentang <b>Single Linked List</b>, struktur data <b>Link List</b>, operasi <b>Link List</b>, dan implementasi <b>Simpul/Node</b>.
 </p>
@@ -72,11 +74,8 @@
   Selanjutnya ada <b>Single Link List</b> yang merupakan sebuah data yang berupa simpul atau node beralamat yang saling terhubung. Setiap simpul data menyimpan data yang berisi tipe tipe data lainnya. Logikanya seperti pencarian harta karun yang mana pada setiap titik kita mendapatkan clue untuk ke rute selanjutnya mulai dari clue pertama sampai kita menemukan harta karun tersebut. biasanya data pertama di dalam linked list ini dinamai dengan <b>Head</b> dan data terkahir dinamai dengan <b>Tail</b>.
 </p>
 
-<p align="justify">
-  
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media3.giphy.com/media/ZIpTnlApULm08DRxsc/200w.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 4 <img src="https://media4.giphy.com/media/14APLG463ouIBK5J4W/200w.webp?cid=ecf05e47pyy7etm9uo8b3rvenslpxf0wg1v798g6at9491zh&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet04.png" alt="Jobsheet 04">
 <p align="justify">
   Pada jobsheet 4 ini kita mempelajari tentang konsep dan penggunaan penyimpana <b>Doubly Linked List</b>, yang pada job sebelumnya kita mempelajari single linked list dan ini adalah lanjutan nya yang mana data di dalam nya saling terkait secara dua arah. 
 </p>
@@ -108,7 +107,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media3.giphy.com/media/taI6It7JfnbhtzZUZc/200w.webp?cid=ecf05e47qmgvyzohxfqc0jbuxunu1r64oi89m3k8snv3nwi8&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 5 <img src="https://media0.giphy.com/media/6GFsg3WbdP9BIOXWBw/200w.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet05.png" alt="Jobsheet 05">
 <p align="justify">
   Pada jobsheet 5 ini kita mempelajari tentang bagaimana konsep <b>Double Linked List dan Cricular Lingked List</b>.
 </p>
@@ -126,7 +125,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media3.giphy.com/media/8pe03qgzN50U4B7W7K/200.webp?cid=ecf05e47r6t8w6rx9xkffny63i2ini21qgo0vxwh4l4vu6iq&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" >  JOBSHEET 6 <img src="https://media0.giphy.com/media/d7nE5VepaZsZ9zXht0/200w.webp?cid=ecf05e47xvhs20bn4au1a2dnvqkf5p2bgo6slurhjk0jrwqx&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet06.png" alt="Jobsheet 06">
 
 <p align="justify">
   Pada jobsheet 6 ini kita mempelajari tentang konsep <b>Stack</b>. <b>Stack</b> adalah sebuah kumpulan data yang mana letaknya berada di atas data yang lain.<b>Stuck</b> adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Dalam proses komputasi, untuk meletakkan sebuah elem pada bagian atas stack, disebut dengan <b>push</b>, dan untuk memindahkan data dari tempat yang atas, disebut <b>pop</b>.
@@ -150,7 +149,7 @@
 <p align="justify">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media2.giphy.com/media/l378jPrN9utcV2Qgg/200w.webp?cid=ecf05e470yguharj8m73hatyc3jvud0qvwpbbsnfppkfzq5r&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 7<img src="https://media0.giphy.com/media/dy8uuPWCzQrMA/200.webp?cid=ecf05e47thn79jm53ojrhxgil8j0f5awied9j3hklv5ajh6u&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet07.png" alt="Jobsheet 07">
 <p align="justify">
   Pada jobsheet 7 ini kita mempelajari tentang bagaimana konsep stack dan operasi pada queue. Queue adalah struktur data linier yang menerapkan prinsip operasi dimana elemen data yang masuk pertama akan keluar lebih dulu. Prinsip ini dikenal dengan istilah FIFO (First In, First Out). Persamaan antara stack dan queue adalah keduanya dapat diimplementasikan menggunakan struktur data linked list atau array.
 </p>
@@ -184,7 +183,7 @@ meningkatkan indeks FRONT.</li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media0.giphy.com/media/h8DCmboIm0MRwAIL9E/giphy.webp?cid=ecf05e474dtlpimjq09erzwga6m80gp92fe5806dg6ymhubg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 8 <img src="https://media3.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.webp?cid=ecf05e476lz2cknrv79mtdwpkxao22lshdjdd1b11j7evlni&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet08.png" alt="Jobsheet 08">
 <p align="justify">
   
 </p>
@@ -202,7 +201,7 @@ meningkatkan indeks FRONT.</li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media2.giphy.com/media/SsefNnwrN5qwI5QRTt/200w.webp?cid=ecf05e475cdphy33rzwqxorpf3nzuvn5n2tfy5qtyv67h0if&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100" >  JOBSHEET 9 <img src="https://media0.giphy.com/media/h2m0y57KG365rZZOP5/200.webp?cid=ecf05e475cdphy33rzwqxorpf3nzuvn5n2tfy5qtyv67h0if&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet09.png" alt="Jobsheet 09">
 <p align="justify">
   <b>Selection Sort </b> : merupakan sebuah algoritma yang digunakan untuk mencari dna memilih element/data terkecil dalam sebuah list yang belum tersusun dalam setiap iterasi dan menempatkan elemen terkecil di urutan paling depan dari urutan list data.
 </p>
@@ -227,7 +226,7 @@ terurut. </li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media2.giphy.com/media/H1RjXpw33ukP3IcXik/giphy.webp?cid=ecf05e47uar4hpy83jj4u9qn2ejmp49ek3bey2s3j6vnk2l2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100" >  JOBSHEET 10 <img src="https://i.gifer.com/origin/fd/fdf70f5f4989f9c08f033da50c38170e_w200.webp" width="100" ></h1>
+<img src="Images/Jobsheet10.png" alt="Jobsheet 10">
 <p align="justify">
   <b>Shell Sort</b> : merupakan sebuah algoritma dengan pengurutan elemen pertama memiliki jarak interval dengan elemen yang akan dibandingkan. Pada prinsipnya sama dengan Insertion sort pada pokok bahasan sebelumnya.</p>
 <p>Dalam pengurutan Shell Sort, elemen/data diurutkan dengan interval yang terukur. Jarak interval diantara elemen semakin lama semakin mengecil berdasarkan berapa kali pengulangan pengurutan 
@@ -252,7 +251,7 @@ terurut. </li>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://cdn-icons-png.flaticon.com/256/7649/7649205.png" width="100" >  JOBSHEET 11 <img src="https://media1.giphy.com/media/quzZylfBesCkOFLx7w/200.webp?cid=ecf05e47fonjt2qvhje7womsnts9zx12h9c5uvn418wpt025&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet11.png" alt="Jobsheet 11">
 
 <p align="justify">
   Ada dua macam teknik pencarian yaitu pencarian sekuensial <b>linear search</b> dan pencarian biner 
@@ -285,7 +284,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media.giphy.com/media/FnYrJ5tucy3LPd2gEq/giphy.gif?cid=790b7611s5ixjcwfvod2co1z3s22us2f1o4efsuwz0e9qz6x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 12 <img src="https://media.giphy.com/media/GPWKoHhTMmjTYqOTVG/giphy.gif?cid=ecf05e474tu8abs0yjm5j6r6qi9fmezzinuikodk5d2a3r0p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet12.png" alt="Jobsheet 12">
 
 <p align="justify">
   Traverse atau Melintasi sebuah pohon data/tree artinya mengunjungi semua simpul yang ada pada pohon tersebut. Ada beberapa hal yang dapat dilakukan contoh jika ingin menambah nilai semua data pada pohon tersebut atau mencari nilai tertinggi diantaranya. Untuk operasi-operasi tersebut, harus dilakukan mengunjungi setiap simpul dari pohon data.
@@ -313,7 +312,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="start"> <img src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif?cid=ecf05e47warq7juizuza579qwq9xrei9hs0snk4ziwslrmu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" >  JOBSHEET 13 <img src="https://media.giphy.com/media/vTUs60YG8Cdgl3s0Ky/giphy.gif?cid=ecf05e47swainwus8dzbduibua58h7bdzolesqvm2ecer0tj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" ></h1>
+<img src="Images/Jobsheet13.png" alt="Jobsheet 13">
 
 <p align="justify">
 <b>Depth First Search/Traversal</b><br>

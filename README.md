@@ -1,14 +1,25 @@
 <div align="center">
     <img src="Images/LOGO-FT-UNP-2.png" alt="Logo">
     <img src="Images/praklogo.png" alt="prakLogo">
-  <p align="start"> 
-   <h1>
-       NAMA  : Ridho Hamdani Putra <br>
-       NIM   : 23343052 <br>
-       PRODI : Informatika (NK) 
-   </h1>
-  </p>
-    
+</div>
+
+<div align="center">
+    <table>
+    <tr>
+    <td>
+    <b><pre>
+    <h3>
+    Nama                : Ridho Hamdani Putra
+    NIM                 : 23343052
+    Program Studi       : Informatika
+    Kode Kelas          : INF1.62.2014
+    Dosen Pengampu      : Randi Proska Sandra, M.Sc
+    </h3>
+    </pre></b>
+    </td>
+    </tr>
+    </table>
+</div>
     
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -21,7 +21,7 @@
 <br>
 
 <h3>3. SPOTIFY </h3>
-<img src=".//Images/spotify.png" alt="spotify">
+<img src="../Images/spotify.png" alt="spotify">
 <p align="justify">
 <li><b>Sorting:</b> Menggunakan algoritma seperti QuickSort dan MergeSort untuk mengurutkan lagu, album, dan artis berdasarkan popularitas, genre, dan preferensi pengguna, didukung oleh machine learning untuk personalisasi.</li>
 <li><b>Searching:</b> Algoritma seperti Trie dan Inverted Index untuk pencarian teks, ditambah dengan model machine learning untuk relevansi hasil pencarian.</li>

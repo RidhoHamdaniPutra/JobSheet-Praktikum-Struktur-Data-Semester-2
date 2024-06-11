@@ -1,37 +1,48 @@
-**SELECTION SORT**<br>
-Selection sort adalah salah satu algoritma pengurutan sederhana yang bekerja dengan cara secara berulang memilih elemen terkecil (atau terbesar, tergantung pada jenis pengurutan) dari sisa array dan menukarnya dengan elemen pertama. Proses ini diulang untuk setiap elemen dalam array, sehingga elemen-elemen dipindahkan ke posisi yang benar satu per satu. Selection sort memiliki kompleksitas waktu 
-𝑂
-(
-𝑛
-2
-)
-O(n 
-2
- ), di mana 
-𝑛
-n adalah jumlah elemen dalam array.
+<div align="center">
+  <img src="../Images/searchingdansorting.png" alt="judul"><br>
+</div>
 
-- Contoh Aplikasi: <br>Sistem Pengurutan Data di Perpustakaan
+<h3>1. NETFLIX </h3>
+<img src="../Images/netflix.png" alt="netflix">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan berbagai algoritma sorting untuk mengurutkan konten berdasarkan popularitas, rating, genre, dan preferensi pengguna. Contohnya adalah QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Trie dan Inverted Index untuk menemukan konten dengan cepat berdasarkan kata kunci.</li>
+</p>
+<br>
+<br>
 
-- Penjelasan:<br>Dalam sistem pengurutan data di perpustakaan, selection sort dapat digunakan untuk mengurutkan daftar buku berdasarkan judul, penulis, atau kategori lainnya. Misalnya, ketika pengguna mencari buku berdasarkan judul, sistem dapat menggunakan selection sort untuk mengurutkan daftar buku yang sesuai.
+<h3>2. PINTEREST </h3>
+<img src="../Images/pinterest.png" alt="pinterest">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan pin berdasarkan popularitas, relevansi, dan waktu penambahan dengan algoritma seperti QuickSort atau MergeSort, serta model machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index untuk pencarian teks cepat dan model deep learning seperti Convolutional Neural Networks (CNNs) untuk pencarian berbasis gambar.</li>
+</p>
+<br>
+<br>
 
-- Cara Kerja Selection Sort:<br>Selection sort memilih elemen terkecil dari sisa array dan menukarnya dengan elemen pertama. Proses ini diulang untuk setiap elemen dalam array, sehingga elemen-elemen dipindahkan ke posisi yang benar satu per satu.
+<h3>3. SPOTIFY </h3>
+<img src="../Images/spotify.png" alt="spotify">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan algoritma seperti QuickSort dan MergeSort untuk mengurutkan lagu, album, dan artis berdasarkan popularitas, genre, dan preferensi pengguna, didukung oleh machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Algoritma seperti Trie dan Inverted Index untuk pencarian teks, ditambah dengan model machine learning untuk relevansi hasil pencarian.</li>
+</p>
+<br>
+<br>
 
-**MERGE SORT**<br>
-Merge sort adalah algoritma pengurutan yang menggunakan pendekatan rekursif untuk membagi array menjadi dua bagian, mengurutkan masing-masing bagian secara terpisah, dan kemudian menggabungkan kedua bagian tersebut. Proses penggabungan dilakukan dengan cara membandingkan elemen-elemen dari kedua bagian dan menempatkannya ke dalam array hasil secara berurutan. Merge sort memiliki kompleksitas waktu 
-𝑂
-(
-𝑛
-log
-⁡
-𝑛
-)
-O(nlogn), di mana 
-𝑛
-n adalah jumlah elemen dalam array.
+<h3>4. TOKOPEDIA </h3>
+<img src="../Images/tokopedia.png" alt="tokopedia">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan produk berdasarkan harga, popularitas, ulasan, dan relevansi dengan algoritma seperti QuickSort, MergeSort, dan algoritma kustom yang dioptimalkan untuk e-commerce.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index yang dioptimalkan dengan mesin pencari seperti Elasticsearch untuk pencarian teks cepat.</li>
+</p>
+<br>
+<br>
 
-- Contoh Aplikasi:<br>Aplikasi E-commerce untuk Pengurutan Produk
-
-- Penjelasan:<br>Dalam aplikasi e-commerce, merge sort dapat digunakan untuk mengurutkan produk berdasarkan berbagai kriteria seperti harga, popularitas, atau penilaian pengguna. Ini memungkinkan pengguna untuk menemukan produk dengan mudah sesuai dengan preferensi mereka.
-
-- Cara Kerja Merge Sort:<br>Merge sort menggunakan pendekatan rekursif untuk membagi array menjadi dua bagian, mengurutkan masing-masing bagian secara terpisah, dan kemudian menggabungkan kedua bagian tersebut. Proses penggabungan dilakukan dengan cara membandingkan elemen-elemen dari kedua bagian dan menempatkannya ke dalam array hasil secara berurutan.
+<h3>5. YOUTUBR </h3>
+<img src="../Images/youtube.png" alt="youtube">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan video berdasarkan popularitas, jumlah tayangan, rating, dan relevansi menggunakan algoritma seperti QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Inverted Index, serta machine learning untuk meningkatkan relevansi hasil pencarian berdasarkan riwayat tontonan dan preferensi pengguna.</li>
+</p>
+<br>
+<br>

@@ -1,19 +1,33 @@
-**BUBBLE SORT**
+<div align="center">
+  <img src="Images/searchingdansorting.png" alt="judul">
+</div>
 
-Bubble sort adalah algoritma yang sederhana tetapi tidak efisien untuk data yang besar. Dalam setiap iterasi, algoritma ini membandingkan dan mungkin menukar setiap pasangan elemen yang berurutan sampai elemen terbesar "menggelembung" ke posisi terakhir dari array. Algoritma ini kemudian mengulangi proses ini untuk elemen-elemen yang tersisa sampai array diurutkan. Karena sifatnya yang lambat untuk set data yang besar, bubble sort lebih cocok digunakan dalam aplikasi pendidikan atau untuk data yang sangat kecil.
+<img src="Images/netflix.png" alt="netflix">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan berbagai algoritma sorting untuk mengurutkan konten berdasarkan popularitas, rating, genre, dan preferensi pengguna. Contohnya adalah QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Trie dan Inverted Index untuk menemukan konten dengan cepat berdasarkan kata kunci.</li>
+</p>
 
-- Contoh Aplikasi:  <br>Game **Sorting Gam**
+<img src="Images/pinterest.png" alt="pinterest">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan pin berdasarkan popularitas, relevansi, dan waktu penambahan dengan algoritma seperti QuickSort atau MergeSort, serta model machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index untuk pencarian teks cepat dan model deep learning seperti Convolutional Neural Networks (CNNs) untuk pencarian berbasis gambar.</li>
+</p>
 
-- Penjelasan: <br>**Sorting Game** adalah permainan sederhana di mana pemain harus mengurutkan elemen-elemen dalam waktu yang ditentukan. Bubble sort dapat digunakan di balik layar untuk mengurutkan elemen-elemen yang ditampilkan dalam permainan.
+<img src="Images/spotify.png" alt="spotify">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan algoritma seperti QuickSort dan MergeSort untuk mengurutkan lagu, album, dan artis berdasarkan popularitas, genre, dan preferensi pengguna, didukung oleh machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Algoritma seperti Trie dan Inverted Index untuk pencarian teks, ditambah dengan model machine learning untuk relevansi hasil pencarian.</li>
+</p>
 
-- Cara Kerja Bubble Sort: Dalam konteks game ini, bubble sort akan secara terus menerus membandingkan dan menukar elemen-elemen yang tidak berurutan sampai semua elemen berada dalam urutan yang benar. Ini memberikan pengalaman interaktif kepada pemain sambil menunjukkan bagaimana algoritma bubble sort bekerja.
+<img src="Images/tokopedia.png" alt="tokopedia">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan produk berdasarkan harga, popularitas, ulasan, dan relevansi dengan algoritma seperti QuickSort, MergeSort, dan algoritma kustom yang dioptimalkan untuk e-commerce.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index yang dioptimalkan dengan mesin pencari seperti Elasticsearch untuk pencarian teks cepat.</li>
+</p>
 
-**INSERTION SORT**
-
-Insertion sort lebih efisien dibandingkan dengan bubble sort untuk set data yang kecil. Algoritma ini bekerja dengan cara mengiterasi array dari elemen kedua hingga akhir, menyisipkan setiap elemen ke posisi yang benar dalam bagian yang sudah diurutkan dari array. Karena efisiensinya dalam data kecil dan sebagian terurut, insertion sort sering digunakan dalam aplikasi nyata seperti spreadsheet, terutama saat mengurutkan data kecil atau hampir terurut.
-
-- Contoh Aplikasi: <br>To-Do List App
-
-- Penjelasan:<br>Banyak aplikasi daftar tugas (To-Do List) menggunakan insertion sort untuk mengurutkan tugas-tugas yang baru ditambahkan ke dalam daftar. Ketika pengguna menambahkan tugas baru, aplikasi dapat menggunakan insertion sort untuk memasukkan tugas tersebut ke dalam posisi yang tepat dalam daftar yang sudah diurutkan.
-
-- Cara Kerja Insertion Sort:<br>Setiap kali pengguna menambahkan tugas baru, insertion sort akan memasukkan tugas tersebut ke dalam posisi yang benar dalam daftar tugas yang sudah diurutkan, sehingga daftar tetap terurut setelah penambahan tugas baru.
+<img src="Images/youtube.png" alt="youtube">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan video berdasarkan popularitas, jumlah tayangan, rating, dan relevansi menggunakan algoritma seperti QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Inverted Index, serta machine learning untuk meningkatkan relevansi hasil pencarian berdasarkan riwayat tontonan dan preferensi pengguna.</li>
+</p>

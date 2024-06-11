@@ -1,35 +1,48 @@
-**SHELL SORT**<br>
-Shell sort adalah algoritma pengurutan yang merupakan variasi dari insertion sort. Algoritma ini menggunakan pendekatan incremental gap atau celah untuk mengurangi jumlah perbandingan yang dibutuhkan. Prosesnya dimulai dengan menggunakan celah yang besar dan kemudian secara bertahap mengurangi ukuran celah tersebut hingga mencapai 1. Setelah itu, algoritma menggunakan insertion sort untuk menyelesaikan pengurutan. Shell sort memiliki kompleksitas waktu yang tergantung pada urutan nilai gap yang digunakan.
+<div align="center">
+  <img src="../Images/searchingdansorting.png" alt="judul"><br>
+</div>
 
-- Contoh Aplikasi:<br>Pengurutan Data pada Aplikasi Pengelolaan File
+<h3>1. NETFLIX </h3>
+<img src="../Images/netflix.png" alt="netflix">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan berbagai algoritma sorting untuk mengurutkan konten berdasarkan popularitas, rating, genre, dan preferensi pengguna. Contohnya adalah QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Trie dan Inverted Index untuk menemukan konten dengan cepat berdasarkan kata kunci.</li>
+</p>
+<br>
+<br>
 
-- Penjelasan:<br>Dalam aplikasi pengelolaan file, Shell sort dapat digunakan untuk mengurutkan daftar file berdasarkan nama, ukuran, atau tipe. Ini memungkinkan pengguna untuk dengan mudah menemukan file yang mereka cari berdasarkan kriteria tertentu.
+<h3>2. PINTEREST </h3>
+<img src="../Images/pinterest.png" alt="pinterest">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan pin berdasarkan popularitas, relevansi, dan waktu penambahan dengan algoritma seperti QuickSort atau MergeSort, serta model machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index untuk pencarian teks cepat dan model deep learning seperti Convolutional Neural Networks (CNNs) untuk pencarian berbasis gambar.</li>
+</p>
+<br>
+<br>
 
-- Cara Kerja Shell Sort:<br>Shell sort merupakan variasi dari insertion sort yang menggunakan konsep gap atau celah untuk mengurangi jumlah perbandingan yang dibutuhkan. Prosesnya dimulai dengan menggunakan celah yang besar dan kemudian secara bertahap mengurangi ukuran celah tersebut hingga mencapai 1. Setelah itu, algoritma menggunakan insertion sort untuk menyelesaikan pengurutan.
+<h3>3. SPOTIFY </h3>
+<img src="../Images/spotify.png" alt="spotify">
+<p align="justify">
+<li><b>Sorting:</b> Menggunakan algoritma seperti QuickSort dan MergeSort untuk mengurutkan lagu, album, dan artis berdasarkan popularitas, genre, dan preferensi pengguna, didukung oleh machine learning untuk personalisasi.</li>
+<li><b>Searching:</b> Algoritma seperti Trie dan Inverted Index untuk pencarian teks, ditambah dengan model machine learning untuk relevansi hasil pencarian.</li>
+</p>
+<br>
+<br>
 
-**QUICK SORT**<br>
-Quick sort adalah algoritma pengurutan yang menggunakan pendekatan rekursif dan membagi array menjadi dua bagian berdasarkan elemen yang disebut pivot. Bagian pertama berisi elemen-elemen yang lebih kecil dari pivot, sedangkan bagian kedua berisi elemen-elemen yang lebih besar dari pivot. Proses ini diulang untuk kedua bagian tersebut hingga seluruh array terurut. Quick sort memiliki kompleksitas waktu yang rata-rata 
-𝑂
-(
-𝑛
-log
-⁡
-𝑛
-)
-O(nlogn), di mana 
-𝑛
-n adalah jumlah elemen dalam array, dan kompleksitas waktu terburuk 
-𝑂
-(
-𝑛
-2
-)
-O(n 
-2
- ) jika pivot dipilih secara suboptimal.
+<h3>4. TOKOPEDIA </h3>
+<img src="../Images/tokopedia.png" alt="tokopedia">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan produk berdasarkan harga, popularitas, ulasan, dan relevansi dengan algoritma seperti QuickSort, MergeSort, dan algoritma kustom yang dioptimalkan untuk e-commerce.</li>
+<li><b>Searching:</b> Menggunakan Inverted Index yang dioptimalkan dengan mesin pencari seperti Elasticsearch untuk pencarian teks cepat.</li>
+</p>
+<br>
+<br>
 
-- Contoh Aplikasi:<br>Aplikasi Sosial Media untuk Mengurutkan Posting Pengguna
-
-- Penjelasan:<br>Dalam aplikasi sosial media, Quick sort dapat digunakan untuk mengurutkan posting pengguna berdasarkan waktu publikasi, jumlah suka, atau interaksi lainnya. Ini memungkinkan pengguna untuk melihat posting yang paling relevan atau populer terlebih dahulu.
-
-- Cara Kerja Quick Sort:<br>Quick sort menggunakan pendekatan rekursif dan memilih elemen yang disebut pivot untuk membagi array menjadi dua bagian. Bagian pertama berisi elemen-elemen yang lebih kecil dari pivot, sedangkan bagian kedua berisi elemen-elemen yang lebih besar dari pivot. Proses ini diulang untuk kedua bagian tersebut hingga seluruh array terurut.
+<h3>5. YOUTUBR </h3>
+<img src="../Images/youtube.png" alt="youtube">
+<p align="justify">
+<li><b>Sorting:</b> Mengurutkan video berdasarkan popularitas, jumlah tayangan, rating, dan relevansi menggunakan algoritma seperti QuickSort, MergeSort, dan algoritma kustom berbasis machine learning.</li>
+<li><b>Searching:</b> Algoritma pencarian teks seperti Inverted Index, serta machine learning untuk meningkatkan relevansi hasil pencarian berdasarkan riwayat tontonan dan preferensi pengguna.</li>
+</p>
+<br>
+<br>

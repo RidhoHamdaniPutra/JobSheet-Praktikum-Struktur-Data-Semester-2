@@ -274,7 +274,7 @@ pada data yang sudah dalam keadaan urut.
 </p>
 
 <p align="justify">
-Algoritma pencarian berurutan dapat dituliskan sebagai berikut: 
+Algoritma pencarian berurutan dapat dituliskan sebagai berikut: <br><img width="700" src="Images/linear.png" alt="linear"><br>
 <ul>
  <li> 1. i ← 0 </li>
  <li> 2. ketemu ← false </li>
@@ -285,7 +285,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 </p>
 
 <p align="justify">
- Algoritma binary search:  
+ Algoritma binary search:  <br><img width="700" src="Images/binary.png" alt="binary"><br>
 <ul>
  <li> 1. Data diambil dari posisi 1 sampai posisi akhir N </li>
  <li> 2. Kemudian cari posisi data tengah dengan rumus: (posisi awal + posisi akhir) / 2 </li>
@@ -302,7 +302,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 <p align="justify">
   Traverse atau Melintasi sebuah pohon data/tree artinya mengunjungi semua simpul yang ada pada pohon tersebut. Ada beberapa hal yang dapat dilakukan contoh jika ingin menambah nilai semua data pada pohon tersebut atau mencari nilai tertinggi diantaranya. Untuk operasi-operasi tersebut, harus dilakukan mengunjungi setiap simpul dari pohon data.
 </p>
-
+<img width="700" src="Images/tree.webp" alt="tree">
 <p align="justify">
   terdapat 3 cara melintasi tree :
 <br>1. Inorder Traversal 
@@ -331,7 +331,7 @@ Algoritma pencarian berurutan dapat dituliskan sebagai berikut:
 <b>Depth First Search/Traversal</b><br>
 Traversal berarti mengunjungi semua node dari suatu graph. DFS atau DFT adalah algoritma pencarian rekursif yang digunakan untuk menjelajahi semua node dalam suatu graph atau pohon.
 </p>
-
+<img width="700" src="Images/graph.webp" alt="graph">
 <p align="justify">
 <b>Algoritma DFS</b> <br>
 Implementasi dasar dari DFS membagi setiap node dalam graph atau pohon menjadi dua kategori:

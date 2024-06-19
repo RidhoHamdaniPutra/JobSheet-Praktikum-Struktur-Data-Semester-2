@@ -78,7 +78,7 @@
 </p>
 
 <p align="justify">
-  <b>Simpul/Node</b> adalah sebuah struct yang didalamnya berisi alamat dan kumpulan data dengan format seperti berikut :<br><br> struct node <br> { <br> int data; <br> struct node *next; <br> } <br><br> <b>Alokasi Memory</b> penggunaan alokasi memori ini menyediakan kita fasilitas untuk membuat ukuran buffer dan array secara dinamik. karena kelemahan di dalam tipe data array ini yaitu sifatnya yang statis. Artinya ketika kita mendeklarasikan array maka data yang kita deklarasikan disimpan dalam memori yang harus dalam konsisi terurut. 
+  <b>Simpul/Node</b> adalah sebuah struct yang didalamnya berisi alamat dan kumpulan data dengan format seperti berikut :<br><br> struct node <br> { <br> int data; <br> struct node *next; <br> } <br><br><img src="Images/Linkedlist.png" alt="Linked list"><br><br> <b>Alokasi Memory</b> penggunaan alokasi memori ini menyediakan kita fasilitas untuk membuat ukuran buffer dan array secara dinamik. karena kelemahan di dalam tipe data array ini yaitu sifatnya yang statis. Artinya ketika kita mendeklarasikan array maka data yang kita deklarasikan disimpan dalam memori yang harus dalam konsisi terurut. 
  <ul>
   <li>perintah sizeof()</li>
   <li>perintah malloc()</li>
@@ -94,7 +94,7 @@
 <p align="justify">
   Pada jobsheet 4 ini kita mempelajari tentang konsep dan penggunaan penyimpana <b>Doubly Linked List</b>, yang pada job sebelumnya kita mempelajari single linked list dan ini adalah lanjutan nya yang mana data di dalam nya saling terkait secara dua arah. 
 </p>
-
+<img src="Images/Doublelinkedlist.png" alt="Double Linked list">
 <p align="justify">
   Kelebihan Doubly Linked List dibandingkan denganSingle Link List :
  <ul>

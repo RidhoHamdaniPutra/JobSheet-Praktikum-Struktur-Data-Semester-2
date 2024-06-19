@@ -130,7 +130,7 @@
 <p align="justify">
   <b>Double Linked List</b> adalah list elemen yang dihubungkan dengan dua pointer dalam satu node. Struktur ini menyebabkan list melintas baik kedepan ataupun kebelakang. Elemen pada double linked list terdiri dari tiga bagian, disamping data (info) dan pointer next, setiap elemen dilengkapi dengan pointer prev dan next . Untuk menunjukkan head dari double linked list ini maka pointer prev dari elemn pertama menunjukkan nilai NULL. Untuk menunjukkan tail dari double linked list, maka pointer next dari elemen terakhir menunjuk nilai NULL.
 </p>
-
+<img width="700" src="Images/doublecircular.png" alt="Double circular">
 <p align="justify">
   <b>Circular Linked List</b> adalah bentuk lain dari linked list yang memberikan fleksibelitas. Circular linked list ini dapat berupa single linked list ataupun double linked list. Pada circular ini pointer next dari elemn terakhir tidak menujukkan nilai NULL tetapi nenunjuk pada elemen pertama.
 </p>
@@ -145,12 +145,9 @@
 <p align="justify">
   Pada jobsheet 6 ini kita mempelajari tentang konsep <b>Stack</b>. <b>Stack</b> adalah sebuah kumpulan data yang mana letaknya berada di atas data yang lain.<b>Stuck</b> adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Dalam proses komputasi, untuk meletakkan sebuah elem pada bagian atas stack, disebut dengan <b>push</b>, dan untuk memindahkan data dari tempat yang atas, disebut <b>pop</b>.
 </p>
-<p>
-  
-</p>
- <b>Stack dengan Array</b>, bentuk penyajian stack bisa menggunakan tipe data array, tetapi kurang tepat karena banyaknya elemen dalam array adalah statis, sedangkan dalam stack banyaknya elemen didalamnya dinamis. Pada suatu saat, ukuran stack akan sama dengan array, bila terus menambhkan data maka akan terjadi overflow. Maka perlu ditambahkan data untuk mencatat posisi ujung stack, yaitu <b>Single Stack</b> dan <b>Double Stack</b>.
+<img width="700" src="Images/stack.webp" alt="stack">
 <p align="justify">
-  
+  <b>Stack dengan Array</b>, bentuk penyajian stack bisa menggunakan tipe data array, tetapi kurang tepat karena banyaknya elemen dalam array adalah statis, sedangkan dalam stack banyaknya elemen didalamnya dinamis. Pada suatu saat, ukuran stack akan sama dengan array, bila terus menambhkan data maka akan terjadi overflow. Maka perlu ditambahkan data untuk mencatat posisi ujung stack, yaitu <b>Single Stack</b> dan <b>Double Stack</b>.
 </p>
  <b>Operasi pada Stack</b> 
  <ul>
@@ -168,7 +165,7 @@
 <p align="justify">
   Pada jobsheet 7 ini kita mempelajari tentang bagaimana konsep stack dan operasi pada queue. Queue adalah struktur data linier yang menerapkan prinsip operasi dimana elemen data yang masuk pertama akan keluar lebih dulu. Prinsip ini dikenal dengan istilah FIFO (First In, First Out). Persamaan antara stack dan queue adalah keduanya dapat diimplementasikan menggunakan struktur data linked list atau array.
 </p>
- 
+<img width="700" src="Images/queue.png" alt="queue">
 <p align="justify">
   Spesifikasi Queue :
  <ul>
@@ -200,25 +197,24 @@ meningkatkan indeks FRONT.</li>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="Images/Jobsheet08.png" alt="Jobsheet 08">
 <p align="justify">
-  
-</p>
-
-<p align="justify">
   <b>Sorting (Pengurutan)</b> : merupakan proses pengurutan data yang sebelumnya disusun secara acak sehingga tersusun secara teratur menurut aturan tertentu. Teknik Sorting yang umum digunakan : buble sort, insertion sort, selection sort, quicksort, mergesort, heapsort, dan binary sort
 </p>
  
 <p align="justify">
   <b>Buble Sort</b> : metode/algoritma pengurutan dengan dengan cara melakukan penukaran data dengan tepat disebelahnya secara terus menerus sampai bisa dipastikan dalam satu iterasi tertentu tidak ada lagi perubahan. Jika tidak ada perubahan berarti data sudah terurut. Disebut pengurutan gelembung karena masing-masing kunci akan dengan lambat menggelembung ke posisinya yang tepat.
 </p>
+<img width="700" src="Images/bubble.png" alt="bubble">
 
 <p align="justify">
   <b>Insertion Sort</b> : merupakan sebuah teknik pengurutan dengan cara membandingkan dan mengurutkan dua data pertama pada array, kemudian membandingkan data para array berikutnya apakah sudah berada di tempat semestinya. Algoritma insertion sort seperti proses pengurutan kartu yang berada di tangan kita.
 </p>
+<img width="700" src="Images/insertion.png" alt="insertion">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="Images/Jobsheet09.png" alt="Jobsheet 09">
 <p align="justify">
   <b>Selection Sort </b> : merupakan sebuah algoritma yang digunakan untuk mencari dna memilih element/data terkecil dalam sebuah list yang belum tersusun dalam setiap iterasi dan menempatkan elemen terkecil di urutan paling depan dari urutan list data.
+<img width="700" src="Images/selection.png" alt="selection">
 </p>
 <p>Cara kerja Slecetion Sort: </p>
 <p align="justify">
@@ -232,7 +228,7 @@ terurut. </li>
 </p>
 <p align="justify">
   <b>Merge Sort </b> : merupakan pengurutan gabungan terus-menerus memotong daftar menjadi beberapa subdaftar hingga masing-masing hanya memiliki satu item, lalu menggabungkan subdaftar tersebut ke dalam daftar yang diurutkan.
-<p>Divide-and-conquer memecahkan sub-masalah secara rekursif; setiap submasalah harus lebih kecil dari masalah aslinya, dan masing-masing harus mempunyai kasus dasar. Algoritme bagi-dan-taklukkan memiliki tiga bagian::
+<p>Divide-and-conquer memecahkan sub-masalah secara rekursif; setiap submasalah harus lebih kecil dari masalah aslinya, dan masing-masing harus mempunyai kasus dasar.<br><img width="700" src="Images/merge.jpg" alt="merge"><br> Algoritme bagi-dan-taklukkan memiliki tiga bagian::
 <ol type="1">
   <li>Bagilah masalah menjadi beberapa bagian kecil dari masalah yang sama</li>
   <li>Taklukkan submasalah dengan menyelesaikannya secara rekursif. Selesaikan submasalah sebagai kasus dasar jika submasalah tersebut cukup kecil.</li>
@@ -247,6 +243,7 @@ terurut. </li>
 <p>Dalam pengurutan Shell Sort, elemen/data diurutkan dengan interval yang terukur. Jarak interval diantara elemen semakin lama semakin mengecil berdasarkan berapa kali pengulangan pengurutan 
  dilakukan.
 </p>
+<img width="700" src="Images/shell.png" alt="shell">
 
 <p>Cara kerja Shell Sort: </p>
 
@@ -264,6 +261,7 @@ terurut. </li>
   <b>Quick Sort</b> : Algoritma ini mengambil sebuah elemen sebagai pivot dan memisahkan array yang ada disekitar pivot.</p>
 <p>Proses utama dalam quickSort adalah partisi() . Target dari partisi adalah untuk menempatkan pivot (elemen apa pun dapat dipilih menjadi pivot) pada posisi yang benar dalam susunan yang diurutkan dan meletakkan semua elemen yang lebih kecil di sebelah kiri pivot, dan semua elemen yang lebih besar di sebelah kanan pivot. Partisi dilakukan secara rekursif pada setiap sisi pivot setelah pivot ditempatkan pada posisi yang benar dan akhirnya mengurutkan array.
 </p>
+<img width="700" src="Images/quick.png" alt="quick">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="Images/Jobsheet11.png" alt="Jobsheet 11">
